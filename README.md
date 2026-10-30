@@ -1,4 +1,5 @@
-
+![Box Picking robot](Box%Picking)
+![Box Picking robot](Box%Picking(2))
 # Color-Sorting-Robot
 
 A robotics simulation project where a robot **picks up boxes based on their color** from a rotating conveyor and **sorts them into their respective positions**. A graph displays information about the robot's sorting task.
